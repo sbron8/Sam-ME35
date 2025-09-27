@@ -5,8 +5,8 @@
 
 from machine import Pin
 import neopixel
-import lis3dh
-import encoder
+from Day3 import lis3dh
+from Day4 import encoder
 import math
 import time
 
