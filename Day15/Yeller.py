@@ -27,5 +27,5 @@ def peripheral(name):
         p.disconnect()
         print('closing up')
          
-peripheral('Sam')
+peripheral('Car')
 
